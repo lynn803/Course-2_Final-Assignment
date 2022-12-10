@@ -24,3 +24,5 @@ Cell 4 (rendered as Markdown): In H3 header styling, explain in a short sentence
 Cell 5 (code cell): Your code, as described in Cell 4. It must be executed and must display an output. Try to keep the code simple (it can even be "1 + 1").
 
 Cell 6 (rendered as Markdown): Using Markdown or HTML, this cell must include at least 3 of the following: horizontal rule, bulleted list, numbered list, tables, hyperlinks, images, code/syntax highlighting, blocked quotes, strikethrough.
+
+Link to Notebook: https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/e6000862-2792-46d4-9efe-9749b228a3b5/view?access_token=3c7db98b5bbdaf9fc4d29b8d66a1571fe9dd0183bcff3410b85e6867f563a349
